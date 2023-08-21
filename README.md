@@ -1,2 +1,1 @@
-# pluginblender
-plugin para blender con fines no especificados
+Scripts en python para blender
